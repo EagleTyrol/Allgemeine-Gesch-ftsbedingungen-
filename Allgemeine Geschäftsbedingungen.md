@@ -3,7 +3,7 @@
 **Stand:** [Datum einfügen, z. B. 06.02.2026]
 
 ### § 1 Geltungsbereich
-1. Diese Allgemeinen Geschäftsbedingungen gelten für die Nutzung der App **"ApiToDo"** (nachfolgend "App"), herausgegeben von **[Dein Name / Firmenname]**, **[Deine Anschrift]** (nachfolgend "Anbieter").
+1. Diese Allgemeinen Geschäftsbedingungen gelten für die Nutzung der App **"ApiToDo"** (nachfolgend "App"), herausgegeben von **Bernhard Fischler**, **6095 Anger 9** (nachfolgend "Anbieter").
 2. Durch die Installation und Nutzung der App erklärt sich der Nutzer mit diesen AGB einverstanden. Maßgeblich ist jeweils die zum Zeitpunkt des Vertragsschlusses gültige Fassung.
 
 ### § 2 Leistungsgegenstand
@@ -12,7 +12,7 @@
 3. Der Anbieter stellt die App in der jeweils aktuellen Version zur Verfügung. Ein Anspruch auf Updates besteht im Rahmen der gesetzlichen Bestimmungen (VGG - Verbrauchergewährleistungsgesetz).
 
 ### § 3 Vertragsschluss und In-App-Käufe
-1, Die Basisversion der App ist kostenlos. Erweiterte Funktionen ("Pro-Version") sind entgeltlich.
+1. Die Basisversion der App ist kostenlos. Erweiterte Funktionen ("Pro-Version") sind entgeltlich.
 2. Der Kaufvertrag über digitale Inhalte kommt über den jeweiligen App Store (Google Play Store / Apple App Store) zustande.
 3. **Vertragsmodelle:**
 * **Abonnement:** Zeitlich begrenztes Nutzungsrecht (z. B. 1 Jahr), automatische Verlängerung gemäß Store-Bedingungen.
