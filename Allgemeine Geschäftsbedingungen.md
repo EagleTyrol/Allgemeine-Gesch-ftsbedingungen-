@@ -41,7 +41,7 @@
 ### § 5 Datensicherheit und Eigenverantwortung
 1. Da die Speicherung der Fachdaten lokal erfolgt, obliegt die **Datensicherung allein dem Nutzer**.
 2. Die App stellt Export-Funktionen bereit. Der Nutzer ist angehalten, regelmäßig Backups seiner Daten außerhalb des Endgeräts (z. B. Cloud-Speicher oder externe Festplatte) zu erstellen.
-3. Für Datenverlust, der durch Verlust, Defekt des Endgeräts, Deinstallation der App oder Unterlassung von Backups entsteht, übernimmt der Anbieter keine Haftung, sofern ihn kein grobes Verschulden trifft.
+3. Für Datenverlust, der durch Verlust, Defekt des Endgeräts, Deinstallation der App, Schadsoftware (Viren/Trojaner), unbefugten Zugriff Dritter auf das Gerät oder Unterlassung von Backups entsteht, übernimmt der Anbieter keine Haftung, sofern ihn kein grobes Verschulden trifft.
 
 ### § 6 Gewährleistung und Haftung
 1. Es gelten die gesetzlichen Gewährleistungsbestimmungen der Republik Österreich (insb. VGG und ABGB).
